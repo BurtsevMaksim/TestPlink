@@ -1,0 +1,7 @@
+C:\Users\Max\source\repos\TestPlink\bin\Debug\TestPlink.exe.config
+C:\Users\Max\source\repos\TestPlink\bin\Debug\TestPlink.exe
+C:\Users\Max\source\repos\TestPlink\bin\Debug\TestPlink.pdb
+C:\Users\Max\source\repos\TestPlink\obj\Debug\TestPlink.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\TestPlink\obj\Debug\TestPlink.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\TestPlink\obj\Debug\TestPlink.exe
+C:\Users\Max\source\repos\TestPlink\obj\Debug\TestPlink.pdb
